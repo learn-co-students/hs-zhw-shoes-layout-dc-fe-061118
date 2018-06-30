@@ -24,4 +24,34 @@
 
 /* Posititoning Classes */
 
+midsection {
+  column-count: 3;
+}
 
+midsection .shadow{
+  display: inline-block;
+}
+
+#featured_brands{
+  width: 60%;
+  float: left;
+  margin-right: 10px;
+  height: 100%;
+}
+
+#shoe_archive{
+  width:36%;
+  height: 100%;
+  overflow: hidden;
+}
+
+deals .shadow{
+  column-count:3;
+  width: 30%;
+  display: inline-block;
+}
+
+#details{
+  column-count:3;
+  
+}
